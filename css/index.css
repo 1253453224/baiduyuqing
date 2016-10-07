@@ -252,7 +252,7 @@ a {
   width: 501px;
   height: 158px;
   position: absolute;
-  background: url(../imgs/yuqingtext.png);
+/*   background: url(../imgs/yuqingtext.png); */
   left: 0;
   top: -210px;
 }
