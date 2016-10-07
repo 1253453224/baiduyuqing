@@ -31,7 +31,7 @@ a {
   width: 120px;
   height: 40px;
   margin-top: 10px;
-  background: url("../imgs/header_all.png") -2px 0 no-repeat;
+/*   background: url("../imgs/header_all.png") -2px 0 no-repeat; */
 }
 
 #header .nav-left {
